@@ -1,2 +1,19 @@
-Basic website with HTML, CSS, and JavaScript that lets a user create their own sandwich, providing visuals in the process of doing so.
-Developed in order to learn and experiment with basic HTML, CSS, and JS. 
+# Sandwich Maker Website
+
+An interactive website built with **HTML, CSS, and JavaScript** that allows users to create their own sandwiches and view nutritional information for each ingredient.
+
+## Features
+- **Custom Sandwich Builder**: Users can select ingredients and visualize their sandwich in real-time.
+- **Nutritional Info on Hover**: Displays calories and nutrition facts for each ingredient when hovered.
+- **Multiple Pages**: Includes homepage, ingredients page, and sandwich builder page.
+- **Responsive Design**: Styled with CSS for a clean and simple user experience.
+
+## Tech Stack
+- HTML5  
+- CSS3  
+- JavaScript  
+
+## How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/YOURUSERNAME/Sandwich-Maker-Website.git
