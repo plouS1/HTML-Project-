@@ -17,3 +17,4 @@ An interactive website built with **HTML, CSS, and JavaScript** that allows user
 1. Clone this repository:
    ```bash
    git clone https://github.com/YOURUSERNAME/Sandwich-Maker-Website.git
+2. Open index.html in any browser.
